@@ -6,3 +6,4 @@ console.log("Hello Git")
 // untuk memindahkan ke staging, di terminal diketik ' git add . ' jika banyak file, kalo cm 1 ' git add namafile ' 
 // file tsb akan di area branch => folder utama dari project, secara default branch akan diarahkan ke main folder
 // untuk pindah dari staging ke branch => menggunakan ' git commit -m "isi pesan catatan" '
+// 
